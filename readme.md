@@ -120,3 +120,5 @@
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Gemini%20API-4A90E2?style=for-the-badge" /></a>
 </p>
+
+---
