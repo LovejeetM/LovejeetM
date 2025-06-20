@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>💬 Serena: AI Therapy Platform</h3>
+      <h3>Serena: AI Therapy Platform</h3>
       <p>A full-stack AI therapy platform leveraging Python (Flask) and TypeScript with a synchronized Live2D character for an immersive, empathetic user experience.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -38,7 +38,7 @@
       <a href="https://github.com/LovejeetM/Serena" target="_blank">View Project →</a>
     </td>
     <td width="50%">
-      <h3>🌦️ Weather Point: Java Desktop App</h3>
+      <h3>Weather Point: Java Desktop App</h3>
       <p>A robust Java Swing desktop app providing real-time weather, multi-day forecasts, and AI-powered travel recommendations via RESTful API integrations.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>♟️ Chess ML & Move Prediction</h3>
+      <h3>Chess ML & Move Prediction</h3>
       <p>A system using Computer Vision and a trained ML model to detect chess pieces from an image, generate FEN, and predict the optimal move using a chess engine.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -63,7 +63,7 @@
       <a href="https://github.com/LovejeetM/Chess_ML_Algorithm" target="_blank">View Project →</a>
     </td>
     <td width="50%">
-      <h3>🤖 Plantey: Autonomous Robot</h3>
+      <h3>Plantey: Autonomous Robot</h3>
       <p>An autonomous robot for the Gemini API competition that uses LiDAR, a Raspberry Pi camera, and the A* algorithm to navigate and analyze plants with AI.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
