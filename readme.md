@@ -26,7 +26,7 @@
 <table style="margin-bottom: 50px;">
   <tr>
     <td width="50%" style="vertical-align: top; padding: 10px;">
-      <h4>            </h4>
+      <h5>            </h5>
       <img 
         src="./img/serena.png" 
         alt="Screenshot of Serena AI Therapy Platform" 
@@ -43,10 +43,10 @@
         <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
       </p>
       <a href="https://github.com/LovejeetM/Serena" target="_blank">View Project →</a>
-      <h4>            </h4>
+      <h5>            </h5>
     </td>
     <td width="50%" style="vertical-align: top; padding: 10px;">
-      <h4>            </h4>
+      <h5>            </h5>
       <img 
         src="./img/frame2.png" 
         alt="Screenshot of Weather Point Java Desktop App" 
@@ -63,12 +63,12 @@
         <img src="https://img.shields.io/badge/Gemini%20API-4A90E2?style=for-the-badge" alt="Gemini API"/>
       </p>
       <a href="https://github.com/LovejeetM/Weather-Point" target="_blank">View Project →</a>
-      <h4>            </h4>
+      <h5>            </h5>
     </td>
   </tr>
   <tr>
     <td width="50%" style="vertical-align: top; padding: 10px;">
-      <h4>            </h4>
+      <h5>            </h5>
       <img 
         src="./img/chess.png" 
         alt="Screenshot of Chess ML & Move Prediction System" 
@@ -84,10 +84,10 @@
         <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
       </p>
       <a href="https://github.com/LovejeetM/Chess_ML_Algorithm" target="_blank">View Project →</a>
-      <h4>            </h4>
+      <h5>            </h5>
     </td>
     <td width="50%" style="vertical-align: top; padding: 10px;">
-      <h4>            </h4>
+      <h5>            </h5>
       <img 
         src="./img/rbt.png" 
         alt="Image of Plantey Autonomous Robot" 
@@ -104,7 +104,7 @@
         <img src="https://img.shields.io/badge/A*%20Algorithm-FF6F00?style=for-the-badge" alt="A* Algorithm"/>
       </p>
       <a href="https://github.com/LovejeetM/autonomous_robot" target="_blank">View Project →</a>
-      <h4>            </h4>
+      <h5>            </h5>
     </td>
   </tr>
 </table>
