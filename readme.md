@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="margin-bottom: 30px;">
   <h1>
     Hey there, I'm Lovejeet Matharu! 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -13,7 +13,7 @@
   </p>
 </div>
 
-<div align="center">
+<div align="center" style="margin-bottom: 30px;">
   <a href="https://www.linkedin.com/in/lovejeet-singh-matharu-975679213/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -23,9 +23,9 @@
 
 ## My Featured Projects
 
-<table>
+<table style="margin-bottom: 50px;">
   <tr>
-    <td width="50%" style="vertical-align: top;">
+    <td width="50%" style="vertical-align: top; padding: 10px;">
       <img 
         src="./img/serena.png" 
         alt="Screenshot of Serena AI Therapy Platform" 
@@ -43,7 +43,7 @@
       </p>
       <a href="https://github.com/LovejeetM/Serena" target="_blank">View Project →</a>
     </td>
-    <td width="50%" style="vertical-align: top;">
+    <td width="50%" style="vertical-align: top; padding: 10px;">
       <img 
         src="./img/frame2.png" 
         alt="Screenshot of Weather Point Java Desktop App" 
@@ -63,7 +63,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" style="vertical-align: top;">
+    <td width="50%" style="vertical-align: top; padding: 10px;">
       <img 
         src="./img/chess.png" 
         alt="Screenshot of Chess ML & Move Prediction System" 
@@ -80,7 +80,7 @@
       </p>
       <a href="https://github.com/LovejeetM/Chess_ML_Algorithm" target="_blank">View Project →</a>
     </td>
-    <td width="50%" style="vertical-align: top;">
+    <td width="50%" style="vertical-align: top; padding: 10px;">
       <img 
         src="./img/rbt.png" 
         alt="Image of Plantey Autonomous Robot" 
