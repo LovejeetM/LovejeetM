@@ -25,8 +25,14 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>💬 Serena: AI Therapy Platform</h3>
+    <td width="50%" style="vertical-align: top;">
+      <img 
+        src="./img/serena.png" 
+        alt="Screenshot of Serena AI Therapy Platform" 
+        width="100%" 
+        style="border-radius: 8px; margin-bottom: 10px;"
+      >
+      <h3>Serena: AI Therapy Platform</h3>
       <p>A full-stack AI therapy platform leveraging Python (Flask) and TypeScript with a synchronized Live2D character for an immersive, empathetic user experience.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -37,8 +43,14 @@
       </p>
       <a href="https://github.com/LovejeetM/Serena" target="_blank">View Project →</a>
     </td>
-    <td width="50%">
-      <h3>🌦️ Weather Point: Java Desktop App</h3>
+    <td width="50%" style="vertical-align: top;">
+      <img 
+        src="./img/frame2.png" 
+        alt="Screenshot of Weather Point Java Desktop App" 
+        width="100%" 
+        style="border-radius: 8px; margin-bottom: 10px;"
+      >
+      <h3>Weather Point: Java Desktop App</h3>
       <p>A robust Java Swing desktop app providing real-time weather, multi-day forecasts, and AI-powered travel recommendations via RESTful API integrations.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -51,8 +63,14 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>♟️ Chess ML & Move Prediction</h3>
+    <td width="50%" style="vertical-align: top;">
+      <img 
+        src="./img/chess.png" 
+        alt="Screenshot of Chess ML & Move Prediction System" 
+        width="100%" 
+        style="border-radius: 8px; margin-bottom: 10px;"
+      >
+      <h3>Chess ML & Move Prediction</h3>
       <p>A system using Computer Vision and a trained ML model to detect chess pieces from an image, generate FEN, and predict the optimal move using a chess engine.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -62,8 +80,14 @@
       </p>
       <a href="https://github.com/LovejeetM/Chess_ML_Algorithm" target="_blank">View Project →</a>
     </td>
-    <td width="50%">
-      <h3>🤖 Plantey: Autonomous Robot</h3>
+    <td width="50%" style="vertical-align: top;">
+      <img 
+        src="./img/rbt.png" 
+        alt="Image of Plantey Autonomous Robot" 
+        width="100%" 
+        style="border-radius: 8px; margin-bottom: 10px;"
+      >
+      <h3>Plantey: Autonomous Robot</h3>
       <p>An autonomous robot for the Gemini API competition that uses LiDAR, a Raspberry Pi camera, and the A* algorithm to navigate and analyze plants with AI.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -120,3 +144,5 @@
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Gemini%20API-4A90E2?style=for-the-badge" /></a>
 </p>
+
+---
