@@ -1,3 +1,63 @@
+<style>
+  * {
+    box-sizing: border-box;
+  }
+  table {
+    width: 100%; 
+    table-layout: fixed; 
+  }
+
+  table td {
+    background-color: #0a0a2a; /* Deeper dark blue-black base */
+    border-radius: 12px;
+    position: relative;
+    overflow: hidden;
+    padding: 10px;
+    vertical-align: top;
+    
+    background-image: 
+      linear-gradient(135deg, rgba(0, 200, 255, 0.15) 0%, transparent 25%, transparent 75%, rgba(150, 0, 255, 0.15) 100%),
+      linear-gradient(45deg, rgba(50, 0, 255, 0.15) 0%, transparent 25%, transparent 75%, rgba(0, 255, 180, 0.15) 100%),
+      linear-gradient(225deg, rgba(0, 100, 255, 0.1) 0%, transparent 50%, rgba(200, 0, 255, 0.1) 100%),
+      radial-gradient(circle at top left, rgba(0, 150, 255, 0.08) 0%, transparent 50%),
+      radial-gradient(circle at bottom right, rgba(100, 0, 255, 0.08) 0%, transparent 50%);
+    background-color: #0a0a2a; /* Fallback and underlying dark color */
+
+    border: 1px solid rgba(50, 150, 255, 0.2); /* Bluish border */
+
+    box-shadow: 
+      0 4px 15px rgba(0, 0, 0, 0.7),
+      0 0 15px rgba(0, 200, 255, 0.25), /* Light blue glow */
+      0 0 15px rgba(150, 0, 255, 0.25); /* Purple glow */
+    
+    transition: all 0.3s ease-in-out;
+
+    color: #e0e0e0; 
+  }
+
+  table td:hover {
+    transform: translateY(-5px);
+    box-shadow: 
+      0 8px 25px rgba(0, 0, 0, 0.9),
+      0 0 25px rgba(0, 200, 255, 0.5), /* Enhanced light blue glow */
+      0 0 25px rgba(150, 0, 255, 0.5); /* Enhanced purple glow */
+    border-color: rgba(50, 150, 255, 0.5); /* More prominent border on hover */
+  }
+
+  table td h3 {
+    color: #00bfff; /* Keep existing header color, it fits */
+  }
+
+  table td a {
+    color: #00bfff; /* Keep existing link color */
+    text-decoration: none;
+  }
+
+  table td a:hover {
+    text-decoration: underline;
+  }
+</style>
+
 <div align="center" style="margin-bottom: 30px;">
   <h1>
     Hey there, I'm Lovejeet Matharu! 
@@ -137,7 +197,7 @@
 <p align="center">
   <strong>Backend, Frontend & Databases:</strong><br>
   <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-for-the-badge&logo=nodedotjs&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Swing-555555?style=for-the-badge" /></a>
   <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /></a>
