@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="./img/p_compressed.jpg" alt="My Featured Projects">
+  <img src="./img/p_compressed.jpg" alt="My Featured Projects" style="margin-top: 30px;">
 </div>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%; border: none; margin-bottom: 0;">
