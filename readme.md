@@ -2,7 +2,6 @@
   <a href="https://www.linkedin.com/in/lovejeet-singh-matharu-975679213/">
     <img src="./img/github_header.png" alt="Lovejeet Matharu - AI & Machine Learning Engineer">
   </a>
-  <h4>       </h4>
   <h2>       </h2>
 </div>
 
