@@ -9,28 +9,32 @@
   <img src="./img/p_compressed.jpg" alt="My Featured Projects">
 </div>
 
-<div style="width:100%; overflow: hidden; margin-bottom: 0;">
-  <div style="width:50%; float:left; padding:0;">
-    <a href="https://github.com/LovejeetM/Serena" target="_blank">
-      <img src="./img/serena_project_card_compressed.jpg" alt="Serena AI Therapy Platform Project" style="width:100%; display:block;">
-    </a>
-  </div>
-  <div style="width:50%; float:left; padding:0;">
-    <a href="https://github.com/LovejeetM/Weather-Point" target="_blank">
-      <img src="./img/weather_project_card_compressed.jpg" alt="Weather Point Desktop App Project" style="width:100%; display:block;">
-    </a>
-  </div>
-  <div style="width:50%; float:left; padding:0;">
-    <a href="https://github.com/LovejeetM/Chess_ML_Algorithm" target="_blank">
-      <img src="./img/chess_project_card_compressed.jpg" alt="Chess ML & Move Prediction Project" style="width:100%; display:block;">
-    </a>
-  </div>
-  <div style="width:50%; float:left; padding:0;">
-    <a href="https://github.com/LovejeetM/autonomous_robot" target="_blank">
-      <img src="./img/robot_project_card_compressed.jpg" alt="Plantey Autonomous Robot Project" style="width:100%; display:block;">
-    </a>
-  </div>
-</div
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%; border: none; margin-bottom: 0;">
+  <tr>
+    <td width="50%" style="padding: 0;">
+      <a href="https://github.com/LovejeetM/Serena" target="_blank">
+        <img src="./img/serena_project_card_compressed.jpg" alt="Serena AI Therapy Platform Project" width="100%" style="display: block;">
+      </a>
+    </td>
+    <td width="50%" style="padding: 0;">
+      <a href="https://github.com/LovejeetM/Weather-Point" target="_blank">
+        <img src="./img/weather_project_card_compressed.jpg" alt="Weather Point Desktop App Project" width="100%" style="display: block;">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="padding: 0;">
+      <a href="https://github.com/LovejeetM/Chess_ML_Algorithm" target="_blank">
+        <img src="./img/chess_project_card_compressed.jpg" alt="Chess ML & Move Prediction Project" width="100%">
+      </a>
+    </td>
+    <td width="50%" style="padding: 0;">
+      <a href="https://github.com/LovejeetM/autonomous_robot" target="_blank">
+        <img src="./img/robot_project_card_compressed.jpg" alt="Plantey Autonomous Robot Project" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <p align="center">
