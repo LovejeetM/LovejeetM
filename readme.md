@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="./img/projects_header_new.png" alt="My Featured Projects">
+    <img src="./img/projects_header1_new.png" alt="My Featured Projects">
   </a>
 </div>
 
