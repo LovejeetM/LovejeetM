@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/lovejeet-singh-matharu-975679213/">
-    <img src="./img/github_header_new.png" alt="Lovejeet Matharu - AI & Machine Learning Engineer">
+    <img src="./img/github_header_new1.png" alt="Lovejeet Matharu - AI & Machine Learning Engineer">
   </a>
   <h2>       </h2>
 </div>
